@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://158.178.198.31:1080",
+    "proxy": "socks5://37.44.238.2:53471",
     "protocol": "socks5",
-    "ip": "158.178.198.31",
-    "port": 1080,
+    "ip": "37.44.238.2",
+    "port": 53471,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.238:4907",
+    "proxy": "socks5://158.178.198.31:1080",
     "protocol": "socks5",
-    "ip": "206.123.156.238",
-    "port": 4907,
+    "ip": "158.178.198.31",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -559,10 +559,10 @@
     }
   },
   {
-    "proxy": "http://34.241.123.181:443",
+    "proxy": "http://13.51.196.44:14210",
     "protocol": "http",
-    "ip": "34.241.123.181",
-    "port": 443,
+    "ip": "13.51.196.44",
+    "port": 14210,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -572,29 +572,16 @@
     }
   },
   {
-    "proxy": "http://13.53.139.178:3371",
+    "proxy": "http://173.212.246.157:3128",
     "protocol": "http",
-    "ip": "13.53.139.178",
-    "port": 3371,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://37.187.109.70:10111",
-    "protocol": "http",
-    "ip": "37.187.109.70",
-    "port": 10111,
+    "ip": "173.212.246.157",
+    "port": 3128,
     "https": false,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "FR",
-      "city": "Unknown"
+      "city": "Lauterbourg"
     }
   },
   {
@@ -1076,19 +1063,6 @@
     "geolocation": {
       "country": "FR",
       "city": "Paris"
-    }
-  },
-  {
-    "proxy": "http://173.212.246.157:3128",
-    "protocol": "http",
-    "ip": "173.212.246.157",
-    "port": 3128,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "FR",
-      "city": "Lauterbourg"
     }
   },
   {
