@@ -1,9 +1,48 @@
 [
   {
-    "proxy": "socks5://206.123.156.236:5906",
+    "proxy": "socks5://168.253.92.93:10808",
     "protocol": "socks5",
-    "ip": "206.123.156.236",
-    "port": 5906,
+    "ip": "168.253.92.93",
+    "port": 10808,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.204:6716",
+    "protocol": "socks5",
+    "ip": "206.123.156.204",
+    "port": 6716,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.195:4043",
+    "protocol": "socks5",
+    "ip": "206.123.156.195",
+    "port": 4043,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.228:7924",
+    "protocol": "socks5",
+    "ip": "206.123.156.228",
+    "port": 7924,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -16,6 +55,19 @@
     "proxy": "http://129.151.160.199:443",
     "protocol": "http",
     "ip": "129.151.160.199",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://196.21.61.67:443",
+    "protocol": "http",
+    "ip": "196.21.61.67",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -57,19 +109,6 @@
     "ip": "196.21.187.115",
     "port": 443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://217.29.208.206:9999",
-    "protocol": "http",
-    "ip": "217.29.208.206",
-    "port": 9999,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
