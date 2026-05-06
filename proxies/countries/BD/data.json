@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "socks5://123.136.24.161:1080",
-    "protocol": "socks5",
-    "ip": "123.136.24.161",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://115.127.112.34:1080",
-    "protocol": "socks5",
-    "ip": "115.127.112.34",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://103.30.29.49:1080",
     "protocol": "socks5",
     "ip": "103.30.29.49",
@@ -52,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://115.127.53.114:1080",
+    "proxy": "socks5://206.123.156.227:22657",
     "protocol": "socks5",
-    "ip": "115.127.53.114",
-    "port": 1080,
+    "ip": "206.123.156.227",
+    "port": 22657,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -65,88 +39,10 @@
     }
   },
   {
-    "proxy": "socks5://202.4.117.136:12321",
+    "proxy": "socks5://206.123.156.201:12430",
     "protocol": "socks5",
-    "ip": "202.4.117.136",
-    "port": 12321,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://103.189.218.158:1080",
-    "protocol": "socks5",
-    "ip": "103.189.218.158",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://43.246.201.253:1080",
-    "protocol": "socks5",
-    "ip": "43.246.201.253",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://115.127.0.158:1080",
-    "protocol": "socks5",
-    "ip": "115.127.0.158",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://114.134.88.74:9696",
-    "protocol": "socks4",
-    "ip": "114.134.88.74",
-    "port": 9696,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://103.167.40.54:1080",
-    "protocol": "socks4",
-    "ip": "103.167.40.54",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://119.148.23.210:9990",
-    "protocol": "socks4",
-    "ip": "119.148.23.210",
-    "port": 9990,
+    "ip": "206.123.156.201",
+    "port": 12430,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -169,12 +65,51 @@
     }
   },
   {
+    "proxy": "http://182.252.74.40:8080",
+    "protocol": "http",
+    "ip": "182.252.74.40",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://59.153.16.105:20909",
+    "protocol": "http",
+    "ip": "59.153.16.105",
+    "port": 20909,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://115.127.31.66:8080",
     "protocol": "http",
     "ip": "115.127.31.66",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Dhaka"
+    }
+  },
+  {
+    "proxy": "http://103.148.178.10:80",
+    "protocol": "http",
+    "ip": "103.148.178.10",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "BD",

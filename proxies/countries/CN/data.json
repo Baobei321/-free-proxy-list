@@ -1,44 +1,5 @@
 [
   {
-    "proxy": "socks5://203.25.208.163:1145",
-    "protocol": "socks5",
-    "ip": "203.25.208.163",
-    "port": 1145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CN",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "socks5://221.225.50.58:8989",
-    "protocol": "socks5",
-    "ip": "221.225.50.58",
-    "port": 8989,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.211:15308",
-    "protocol": "socks5",
-    "ip": "206.123.156.211",
-    "port": 15308,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://103.213.97.78:80",
     "protocol": "http",
     "ip": "103.213.97.78",
@@ -244,6 +205,19 @@
     "geolocation": {
       "country": "CN",
       "city": "Shangqiu"
+    }
+  },
+  {
+    "proxy": "socks5://203.25.208.163:1145",
+    "protocol": "socks5",
+    "ip": "203.25.208.163",
+    "port": 1145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CN",
+      "city": ""
     }
   },
   {
