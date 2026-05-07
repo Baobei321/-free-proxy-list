@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.215:4998",
+    "proxy": "socks5://206.123.156.215:7632",
     "protocol": "socks5",
     "ip": "206.123.156.215",
-    "port": 4998,
+    "port": 7632,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.201:8572",
+    "proxy": "socks5://206.123.156.227:8078",
     "protocol": "socks5",
-    "ip": "206.123.156.201",
-    "port": 8572,
+    "ip": "206.123.156.227",
+    "port": 8078,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.236:13444",
+    "proxy": "socks5://206.123.156.215:6860",
     "protocol": "socks5",
-    "ip": "206.123.156.236",
-    "port": 13444,
+    "ip": "206.123.156.215",
+    "port": 6860,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -169,6 +169,19 @@
     }
   },
   {
+    "proxy": "http://203.126.53.78:443",
+    "protocol": "http",
+    "ip": "203.126.53.78",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://159.65.8.214:80",
     "protocol": "http",
     "ip": "159.65.8.214",
@@ -200,19 +213,6 @@
     "ip": "143.198.192.178",
     "port": 443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://157.245.194.13:8888",
-    "protocol": "http",
-    "ip": "157.245.194.13",
-    "port": 8888,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -270,19 +270,6 @@
     "geolocation": {
       "country": "SG",
       "city": ""
-    }
-  },
-  {
-    "proxy": "http://23.247.136.254:80",
-    "protocol": "http",
-    "ip": "23.247.136.254",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Singapore"
     }
   },
   {
