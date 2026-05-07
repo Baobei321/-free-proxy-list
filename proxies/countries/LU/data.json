@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "http://16.51.62.173:56865",
+    "proxy": "http://16.62.123.236:9002",
     "protocol": "http",
-    "ip": "16.51.62.173",
-    "port": 56865,
+    "ip": "16.62.123.236",
+    "port": 9002,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://56.155.73.215:48172",
+    "protocol": "http",
+    "ip": "56.155.73.215",
+    "port": 48172,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
