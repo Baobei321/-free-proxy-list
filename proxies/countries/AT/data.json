@@ -78,10 +78,23 @@
     }
   },
   {
-    "proxy": "http://63.179.134.206:3667",
+    "proxy": "http://18.142.120.165:16583",
     "protocol": "http",
-    "ip": "63.179.134.206",
-    "port": 3667,
+    "ip": "18.142.120.165",
+    "port": 16583,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://54.67.110.244:29852",
+    "protocol": "http",
+    "ip": "54.67.110.244",
+    "port": 29852,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
