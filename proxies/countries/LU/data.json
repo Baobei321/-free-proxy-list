@@ -1,0 +1,28 @@
+[
+  {
+    "proxy": "socks5://206.123.156.222:8700",
+    "protocol": "socks5",
+    "ip": "206.123.156.222",
+    "port": 8700,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://65.2.5.16:45604",
+    "protocol": "http",
+    "ip": "65.2.5.16",
+    "port": 45604,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LU",
+      "city": "Unknown"
+    }
+  }
+]
