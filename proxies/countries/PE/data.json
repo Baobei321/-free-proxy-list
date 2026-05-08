@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.217:5347",
+    "proxy": "socks5://206.123.156.207:5716",
     "protocol": "socks5",
-    "ip": "206.123.156.217",
-    "port": 5347,
+    "ip": "206.123.156.207",
+    "port": 5716,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,36 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.192:4445",
+    "proxy": "socks5://206.123.156.225:9023",
     "protocol": "socks5",
-    "ip": "206.123.156.192",
-    "port": 4445,
+    "ip": "206.123.156.225",
+    "port": 9023,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.233:6342",
+    "protocol": "socks5",
+    "ip": "206.123.156.233",
+    "port": 6342,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.189:6556",
+    "protocol": "socks5",
+    "ip": "206.123.156.189",
+    "port": 6556,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
