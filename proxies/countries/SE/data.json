@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "socks5://206.123.156.222:5872",
+    "proxy": "socks5://206.123.156.224:6068",
     "protocol": "socks5",
-    "ip": "206.123.156.222",
-    "port": 5872,
+    "ip": "206.123.156.224",
+    "port": 6068,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.219:4659",
+    "protocol": "socks5",
+    "ip": "206.123.156.219",
+    "port": 4659,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,6 +39,19 @@
     }
   },
   {
+    "proxy": "socks5://206.123.156.189:7920",
+    "protocol": "socks5",
+    "ip": "206.123.156.189",
+    "port": 7920,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://171.25.158.95:1080",
     "protocol": "socks5",
     "ip": "171.25.158.95",
@@ -39,23 +65,10 @@
     }
   },
   {
-    "proxy": "http://3.137.167.45:12113",
+    "proxy": "http://65.2.5.16:34676",
     "protocol": "http",
-    "ip": "3.137.167.45",
-    "port": 12113,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://43.203.112.163:59378",
-    "protocol": "http",
-    "ip": "43.203.112.163",
-    "port": 59378,
+    "ip": "65.2.5.16",
+    "port": 34676,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -78,23 +91,10 @@
     }
   },
   {
-    "proxy": "http://43.209.173.229:1162",
+    "proxy": "http://35.182.12.78:51082",
     "protocol": "http",
-    "ip": "43.209.173.229",
-    "port": 1162,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://43.208.2.116:9080",
-    "protocol": "http",
-    "ip": "43.208.2.116",
-    "port": 9080,
+    "ip": "35.182.12.78",
+    "port": 51082,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
