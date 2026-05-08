@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.189:4856",
+    "proxy": "socks5://206.123.156.189:4456",
     "protocol": "socks5",
     "ip": "206.123.156.189",
-    "port": 4856,
+    "port": 4456,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,10 +39,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.217:4364",
+    "proxy": "socks5://206.123.156.233:4263",
     "protocol": "socks5",
-    "ip": "206.123.156.217",
-    "port": 4364,
+    "ip": "206.123.156.233",
+    "port": 4263,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,10 +52,23 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.228:6062",
+    "proxy": "socks5://206.123.156.227:7240",
     "protocol": "socks5",
-    "ip": "206.123.156.228",
-    "port": 6062,
+    "ip": "206.123.156.227",
+    "port": 7240,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.227:6200",
+    "protocol": "socks5",
+    "ip": "206.123.156.227",
+    "port": 6200,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -69,6 +82,19 @@
     "protocol": "socks5",
     "ip": "206.123.156.225",
     "port": 4461,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.204:5330",
+    "protocol": "socks5",
+    "ip": "206.123.156.204",
+    "port": 5330,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -108,19 +134,6 @@
     "protocol": "socks5",
     "ip": "206.123.156.222",
     "port": 4649,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.201:4640",
-    "protocol": "socks5",
-    "ip": "206.123.156.201",
-    "port": 4640,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
