@@ -1,8 +1,21 @@
 [
   {
-    "proxy": "http://38.211.245.53:999",
+    "proxy": "http://38.211.245.54:999",
     "protocol": "http",
-    "ip": "38.211.245.53",
+    "ip": "38.211.245.54",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://38.211.245.102:999",
+    "protocol": "http",
+    "ip": "38.211.245.102",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
