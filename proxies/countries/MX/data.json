@@ -52,10 +52,23 @@
     }
   },
   {
-    "proxy": "http://201.144.25.226:3128",
+    "proxy": "http://38.194.231.70:999",
     "protocol": "http",
-    "ip": "201.144.25.226",
-    "port": 3128,
+    "ip": "38.194.231.70",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://45.174.243.128:999",
+    "protocol": "http",
+    "ip": "45.174.243.128",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
