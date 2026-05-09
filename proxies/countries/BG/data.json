@@ -13,10 +13,23 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.231:10817",
+    "proxy": "socks5://206.123.156.203:13028",
     "protocol": "socks5",
-    "ip": "206.123.156.231",
-    "port": 10817,
+    "ip": "206.123.156.203",
+    "port": 13028,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.226:4595",
+    "protocol": "socks5",
+    "ip": "206.123.156.226",
+    "port": 4595,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,10 +52,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.182:9884",
+    "proxy": "socks5://206.123.156.219:11811",
     "protocol": "socks5",
-    "ip": "206.123.156.182",
-    "port": 9884,
+    "ip": "206.123.156.219",
+    "port": 11811,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,32 +130,6 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.215:14872",
-    "protocol": "socks5",
-    "ip": "206.123.156.215",
-    "port": 14872,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.236:14102",
-    "protocol": "socks5",
-    "ip": "206.123.156.236",
-    "port": 14102,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://206.123.156.236:14049",
     "protocol": "socks5",
     "ip": "206.123.156.236",
@@ -156,23 +143,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.215:14876",
+    "proxy": "socks5://206.123.156.213:8063",
     "protocol": "socks5",
-    "ip": "206.123.156.215",
-    "port": 14876,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.203:7930",
-    "protocol": "socks5",
-    "ip": "206.123.156.203",
-    "port": 7930,
+    "ip": "206.123.156.213",
+    "port": 8063,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
