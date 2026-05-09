@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.207:7523",
+    "proxy": "socks5://206.123.156.196:4639",
     "protocol": "socks5",
-    "ip": "206.123.156.207",
-    "port": 7523,
+    "ip": "206.123.156.196",
+    "port": 4639,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +26,36 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.220:5259",
+    "proxy": "socks5://206.123.156.220:10798",
     "protocol": "socks5",
     "ip": "206.123.156.220",
-    "port": 5259,
+    "port": 10798,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.215:15897",
+    "protocol": "socks5",
+    "ip": "206.123.156.215",
+    "port": 15897,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.195:6268",
+    "protocol": "socks5",
+    "ip": "206.123.156.195",
+    "port": 6268,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -270,19 +296,6 @@
     "geolocation": {
       "country": "IT",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://77.242.177.57:3128",
-    "protocol": "http",
-    "ip": "77.242.177.57",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Biella"
     }
   }
 ]
