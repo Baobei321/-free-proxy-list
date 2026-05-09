@@ -13,45 +13,6 @@
     }
   },
   {
-    "proxy": "socks4://175.203.138.160:5678",
-    "protocol": "socks4",
-    "ip": "175.203.138.160",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://114.108.177.104:60984",
-    "protocol": "socks4",
-    "ip": "114.108.177.104",
-    "port": 60984,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://64.110.88.200:30000",
-    "protocol": "http",
-    "ip": "64.110.88.200",
-    "port": 30000,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://203.246.113.240:443",
     "protocol": "http",
     "ip": "203.246.113.240",
@@ -91,19 +52,6 @@
     }
   },
   {
-    "proxy": "http://210.105.16.87:8888",
-    "protocol": "http",
-    "ip": "210.105.16.87",
-    "port": 8888,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://121.184.223.156:4443",
     "protocol": "http",
     "ip": "121.184.223.156",
@@ -117,10 +65,10 @@
     }
   },
   {
-    "proxy": "http://121.148.239.82:3051",
+    "proxy": "http://121.148.239.82:3040",
     "protocol": "http",
     "ip": "121.148.239.82",
-    "port": 3051,
+    "port": 3040,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -130,10 +78,23 @@
     }
   },
   {
-    "proxy": "http://121.177.17.179:3064",
+    "proxy": "http://115.144.186.98:15648",
+    "protocol": "http",
+    "ip": "115.144.186.98",
+    "port": 15648,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://121.177.17.179:3113",
     "protocol": "http",
     "ip": "121.177.17.179",
-    "port": 3064,
+    "port": 3113,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
