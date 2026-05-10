@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "socks5://206.123.156.214:9999",
+    "proxy": "socks5://206.123.156.228:4197",
     "protocol": "socks5",
-    "ip": "206.123.156.214",
-    "port": 9999,
+    "ip": "206.123.156.228",
+    "port": 4197,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.228:9884",
+    "protocol": "socks5",
+    "ip": "206.123.156.228",
+    "port": 9884,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,36 +52,23 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.235:7995",
-    "protocol": "socks5",
-    "ip": "206.123.156.235",
-    "port": 7995,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.224:20932",
-    "protocol": "socks5",
-    "ip": "206.123.156.224",
-    "port": 20932,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.215:15175",
+    "proxy": "socks5://206.123.156.215:4995",
     "protocol": "socks5",
     "ip": "206.123.156.215",
-    "port": 15175,
+    "port": 4995,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.189:6191",
+    "protocol": "socks5",
+    "ip": "206.123.156.189",
+    "port": 6191,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -82,6 +82,19 @@
     "protocol": "socks4",
     "ip": "213.197.136.218",
     "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://86.100.63.246:4145",
+    "protocol": "socks4",
+    "ip": "86.100.63.246",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
