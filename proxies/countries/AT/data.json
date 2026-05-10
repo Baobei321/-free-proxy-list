@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "socks5://206.123.156.207:8968",
+    "proxy": "socks5://206.123.156.227:4273",
     "protocol": "socks5",
-    "ip": "206.123.156.207",
-    "port": 8968,
+    "ip": "206.123.156.227",
+    "port": 4273,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.238:11848",
+    "protocol": "socks5",
+    "ip": "206.123.156.238",
+    "port": 11848,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +39,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.188:44063",
+    "proxy": "socks5://206.123.156.238:14267",
     "protocol": "socks5",
-    "ip": "206.123.156.188",
-    "port": 44063,
+    "ip": "206.123.156.238",
+    "port": 14267,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,10 +65,49 @@
     }
   },
   {
-    "proxy": "socks4://46.62.246.93:9050",
+    "proxy": "socks4://178.115.238.226:5678",
     "protocol": "socks4",
-    "ip": "46.62.246.93",
+    "ip": "178.115.238.226",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://5.189.17.23:9050",
+    "protocol": "socks4",
+    "ip": "5.189.17.23",
     "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://195.201.204.175:9108",
+    "protocol": "socks4",
+    "ip": "195.201.204.175",
+    "port": 9108,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://95.211.190.26:9100",
+    "protocol": "socks4",
+    "ip": "95.211.190.26",
+    "port": 9100,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
