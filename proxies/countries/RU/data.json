@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "socks5://185.209.29.226:1080",
+    "proxy": "socks5://84.47.150.125:1080",
     "protocol": "socks5",
-    "ip": "185.209.29.226",
+    "ip": "84.47.150.125",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
@@ -13,61 +13,9 @@
     }
   },
   {
-    "proxy": "socks5://82.114.228.67:1080",
-    "protocol": "socks5",
-    "ip": "82.114.228.67",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RU",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://185.125.201.149:7443",
-    "protocol": "socks5",
-    "ip": "185.125.201.149",
-    "port": 7443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RU",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://77.232.142.77:31336",
-    "protocol": "socks5",
-    "ip": "77.232.142.77",
-    "port": 31336,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RU",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://80.67.218.53:1080",
-    "protocol": "socks5",
-    "ip": "80.67.218.53",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RU",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://212.60.5.225:1080",
-    "protocol": "socks5",
-    "ip": "212.60.5.225",
+    "proxy": "socks4://89.169.168.25:1080",
+    "protocol": "socks4",
+    "ip": "89.169.168.25",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
@@ -121,6 +69,19 @@
     "protocol": "http",
     "ip": "92.242.41.77",
     "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "RU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://81.25.50.12:8481",
+    "protocol": "http",
+    "ip": "81.25.50.12",
+    "port": 8481,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
