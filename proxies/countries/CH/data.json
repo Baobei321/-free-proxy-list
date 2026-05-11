@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://65.21.212.113:9050",
+    "protocol": "socks4",
+    "ip": "65.21.212.113",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CH",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://37.120.213.210:9443",
     "protocol": "http",
     "ip": "37.120.213.210",

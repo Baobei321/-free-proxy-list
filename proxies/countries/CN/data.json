@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://111.177.48.18:9501",
+    "protocol": "socks4",
+    "ip": "111.177.48.18",
+    "port": 9501,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CN",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://117.82.138.100:1080",
     "protocol": "http",
     "ip": "117.82.138.100",
