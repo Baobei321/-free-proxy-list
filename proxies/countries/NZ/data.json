@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "socks5://206.123.156.214:5932",
+    "proxy": "socks5://206.123.156.204:5775",
     "protocol": "socks5",
-    "ip": "206.123.156.214",
-    "port": 5932,
+    "ip": "206.123.156.204",
+    "port": 5775,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NZ",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.222:5443",
+    "protocol": "socks5",
+    "ip": "206.123.156.222",
+    "port": 5443,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +39,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.233:5316",
+    "proxy": "socks5://206.123.156.228:4994",
     "protocol": "socks5",
-    "ip": "206.123.156.233",
-    "port": 5316,
+    "ip": "206.123.156.228",
+    "port": 4994,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,23 +52,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.236:31605",
+    "proxy": "socks5://206.123.156.204:8475",
     "protocol": "socks5",
-    "ip": "206.123.156.236",
-    "port": 31605,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NZ",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.182:4847",
-    "protocol": "socks5",
-    "ip": "206.123.156.182",
-    "port": 4847,
+    "ip": "206.123.156.204",
+    "port": 8475,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -91,37 +91,11 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.207:6435",
+    "proxy": "socks5://206.123.156.222:8102",
     "protocol": "socks5",
-    "ip": "206.123.156.207",
-    "port": 6435,
+    "ip": "206.123.156.222",
+    "port": 8102,
     "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NZ",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.197:28346",
-    "protocol": "socks5",
-    "ip": "206.123.156.197",
-    "port": 28346,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NZ",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://130.123.96.226:443",
-    "protocol": "http",
-    "ip": "130.123.96.226",
-    "port": 443,
-    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
