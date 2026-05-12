@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks5://206.123.156.204:8959",
+    "protocol": "socks5",
+    "ip": "206.123.156.204",
+    "port": 8959,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://89.124.11.13:443",
     "protocol": "http",
     "ip": "89.124.11.13",
@@ -78,19 +91,6 @@
     }
   },
   {
-    "proxy": "http://89.124.11.7:443",
-    "protocol": "http",
-    "ip": "89.124.11.7",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LT",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://89.124.11.8:443",
     "protocol": "http",
     "ip": "89.124.11.8",
@@ -156,6 +156,19 @@
     }
   },
   {
+    "proxy": "http://89.124.8.27:443",
+    "protocol": "http",
+    "ip": "89.124.8.27",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://195.182.74.92:42443",
     "protocol": "http",
     "ip": "195.182.74.92",
@@ -185,6 +198,19 @@
     "proxy": "http://89.124.8.26:443",
     "protocol": "http",
     "ip": "89.124.8.26",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://89.124.8.81:443",
+    "protocol": "http",
+    "ip": "89.124.8.81",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -247,9 +273,9 @@
     }
   },
   {
-    "proxy": "http://89.124.8.30:443",
+    "proxy": "http://89.124.8.37:443",
     "protocol": "http",
-    "ip": "89.124.8.30",
+    "ip": "89.124.8.37",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -260,9 +286,9 @@
     }
   },
   {
-    "proxy": "http://89.124.8.89:443",
+    "proxy": "http://89.124.8.30:443",
     "protocol": "http",
-    "ip": "89.124.8.89",
+    "ip": "89.124.8.30",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -356,19 +382,6 @@
     "ip": "89.124.8.77",
     "port": 443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://88.119.139.237:53281",
-    "protocol": "http",
-    "ip": "88.119.139.237",
-    "port": 53281,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
