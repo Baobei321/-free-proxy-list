@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks4://114.108.177.104:60984",
-    "protocol": "socks4",
-    "ip": "114.108.177.104",
-    "port": 60984,
+    "proxy": "socks5://221.150.253.197:1080",
+    "protocol": "socks5",
+    "ip": "221.150.253.197",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -91,9 +91,9 @@
     }
   },
   {
-    "proxy": "http://49.254.137.140:15648",
+    "proxy": "http://121.126.50.60:15648",
     "protocol": "http",
-    "ip": "49.254.137.140",
+    "ip": "121.126.50.60",
     "port": 15648,
     "https": false,
     "anonymity": "transparent",
@@ -104,10 +104,10 @@
     }
   },
   {
-    "proxy": "http://49.254.179.140:15648",
+    "proxy": "http://121.177.17.179:3053",
     "protocol": "http",
-    "ip": "49.254.179.140",
-    "port": 15648,
+    "ip": "121.177.17.179",
+    "port": 3053,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -127,19 +127,6 @@
     "geolocation": {
       "country": "KR",
       "city": "Seo-gu"
-    }
-  },
-  {
-    "proxy": "http://183.110.216.128:8090",
-    "protocol": "http",
-    "ip": "183.110.216.128",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": ""
     }
   },
   {
