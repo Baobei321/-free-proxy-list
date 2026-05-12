@@ -1,5 +1,31 @@
 [
   {
+    "proxy": "socks4://125.228.143.207:4145",
+    "protocol": "socks4",
+    "ip": "125.228.143.207",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "New Taipei City"
+    }
+  },
+  {
+    "proxy": "socks4://125.228.94.153:4145",
+    "protocol": "socks4",
+    "ip": "125.228.94.153",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Taipei"
+    }
+  },
+  {
     "proxy": "http://118.163.99.115:443",
     "protocol": "http",
     "ip": "118.163.99.115",
@@ -78,19 +104,6 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41293",
-    "protocol": "http",
-    "ip": "47.243.181.85",
-    "port": 41293,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://47.243.181.85:55014",
     "protocol": "http",
     "ip": "47.243.181.85",
@@ -117,10 +130,10 @@
     }
   },
   {
-    "proxy": "http://220.128.223.136:8085",
+    "proxy": "http://103.52.115.171:3128",
     "protocol": "http",
-    "ip": "220.128.223.136",
-    "port": 8085,
+    "ip": "103.52.115.171",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -133,32 +146,6 @@
     "proxy": "socks4://125.228.94.232:4145",
     "protocol": "socks4",
     "ip": "125.228.94.232",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "Taipei"
-    }
-  },
-  {
-    "proxy": "socks4://125.228.143.207:4145",
-    "protocol": "socks4",
-    "ip": "125.228.143.207",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "New Taipei City"
-    }
-  },
-  {
-    "proxy": "socks4://125.228.94.153:4145",
-    "protocol": "socks4",
-    "ip": "125.228.94.153",
     "port": 4145,
     "https": false,
     "anonymity": "transparent",
