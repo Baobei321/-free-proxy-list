@@ -13,11 +13,11 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.219:4044",
-    "protocol": "socks5",
-    "ip": "206.123.156.219",
-    "port": 4044,
-    "https": false,
+    "proxy": "http://203.189.96.232:443",
+    "protocol": "http",
+    "ip": "203.189.96.232",
+    "port": 443,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -26,9 +26,35 @@
     }
   },
   {
-    "proxy": "http://203.189.96.232:443",
+    "proxy": "http://37.120.210.146:9443",
     "protocol": "http",
-    "ip": "203.189.96.232",
+    "ip": "37.120.210.146",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://37.120.210.66:9443",
+    "protocol": "http",
+    "ip": "37.120.210.66",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://20.78.213.56:443",
+    "protocol": "http",
+    "ip": "20.78.213.56",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -182,6 +208,19 @@
     }
   },
   {
+    "proxy": "http://116.80.50.99:3172",
+    "protocol": "http",
+    "ip": "116.80.50.99",
+    "port": 3172,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://13.230.34.30:80",
     "protocol": "http",
     "ip": "13.230.34.30",
@@ -237,19 +276,6 @@
     "proxy": "http://203.99.240.179:80",
     "protocol": "http",
     "ip": "203.99.240.179",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://203.99.240.182:80",
-    "protocol": "http",
-    "ip": "203.99.240.182",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
