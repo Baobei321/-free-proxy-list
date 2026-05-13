@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks5://206.123.156.231:5203",
+    "protocol": "socks5",
+    "ip": "206.123.156.231",
+    "port": 5203,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://62.60.149.161:1080",
     "protocol": "socks5",
     "ip": "62.60.149.161",
@@ -26,23 +39,10 @@
     }
   },
   {
-    "proxy": "socks5://171.25.158.95:1080",
-    "protocol": "socks5",
-    "ip": "171.25.158.95",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://16.51.148.102:51027",
+    "proxy": "http://13.208.238.59:3129",
     "protocol": "http",
-    "ip": "16.51.148.102",
-    "port": 51027,
+    "ip": "13.208.238.59",
+    "port": 3129,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -65,10 +65,10 @@
     }
   },
   {
-    "proxy": "http://40.177.99.164:16640",
+    "proxy": "http://13.206.73.237:56165",
     "protocol": "http",
-    "ip": "40.177.99.164",
-    "port": 16640,
+    "ip": "13.206.73.237",
+    "port": 56165,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -78,36 +78,10 @@
     }
   },
   {
-    "proxy": "http://3.121.130.230:571",
+    "proxy": "http://16.51.62.173:37846",
     "protocol": "http",
-    "ip": "3.121.130.230",
-    "port": 571,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://54.79.125.20:37777",
-    "protocol": "http",
-    "ip": "54.79.125.20",
-    "port": 37777,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://43.208.109.99:29763",
-    "protocol": "http",
-    "ip": "43.208.109.99",
-    "port": 29763,
+    "ip": "16.51.62.173",
+    "port": 37846,
     "https": true,
     "anonymity": "transparent",
     "score": 1,

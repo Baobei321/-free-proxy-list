@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://78.13.215.130:2647",
+    "protocol": "http",
+    "ip": "78.13.215.130",
+    "port": 2647,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "DK",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://87.238.253.66:443",
     "protocol": "http",
     "ip": "87.238.253.66",
@@ -26,10 +39,10 @@
     }
   },
   {
-    "proxy": "http://51.84.101.19:8008",
+    "proxy": "http://13.208.238.59:7078",
     "protocol": "http",
-    "ip": "51.84.101.19",
-    "port": 8008,
+    "ip": "13.208.238.59",
+    "port": 7078,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -39,16 +52,29 @@
     }
   },
   {
-    "proxy": "http://91.132.92.231:80",
+    "proxy": "http://56.68.77.224:13839",
     "protocol": "http",
-    "ip": "91.132.92.231",
-    "port": 80,
-    "https": false,
+    "ip": "56.68.77.224",
+    "port": 13839,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "DK",
-      "city": "Copenhagen"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://43.198.22.151:21331",
+    "protocol": "http",
+    "ip": "43.198.22.151",
+    "port": 21331,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "DK",
+      "city": "Unknown"
     }
   }
 ]
