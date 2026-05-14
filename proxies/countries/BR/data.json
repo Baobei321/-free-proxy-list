@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.222:6856",
+    "proxy": "socks5://206.123.156.219:4209",
     "protocol": "socks5",
-    "ip": "206.123.156.222",
-    "port": 6856,
+    "ip": "206.123.156.219",
+    "port": 4209,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.222:6744",
-    "protocol": "socks5",
-    "ip": "206.123.156.222",
-    "port": 6744,
+    "proxy": "socks4://177.39.211.221:1080",
+    "protocol": "socks4",
+    "ip": "177.39.211.221",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,37 +26,11 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.210:7878",
-    "protocol": "socks5",
-    "ip": "206.123.156.210",
-    "port": 7878,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.207:11733",
-    "protocol": "socks5",
-    "ip": "206.123.156.207",
-    "port": 11733,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.201:5313",
-    "protocol": "socks5",
-    "ip": "206.123.156.201",
-    "port": 5313,
-    "https": false,
+    "proxy": "http://134.65.238.25:3128",
+    "protocol": "http",
+    "ip": "134.65.238.25",
+    "port": 3128,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -200,19 +174,6 @@
     "ip": "47.243.181.85",
     "port": 41796,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://179.185.89.251:8080",
-    "protocol": "http",
-    "ip": "179.185.89.251",
-    "port": 8080,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
