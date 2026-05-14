@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks5://206.123.156.204:6320",
+    "protocol": "socks5",
+    "ip": "206.123.156.204",
+    "port": 6320,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://170.64.170.204:1080",
     "protocol": "socks5",
     "ip": "170.64.170.204",
@@ -13,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.234:40930",
+    "proxy": "socks5://206.123.156.228:4807",
     "protocol": "socks5",
-    "ip": "206.123.156.234",
-    "port": 40930,
+    "ip": "206.123.156.228",
+    "port": 4807,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -31,32 +44,6 @@
     "ip": "206.123.156.233",
     "port": 4480,
     "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AU",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.62.50.130:443",
-    "protocol": "http",
-    "ip": "103.62.50.130",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AU",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.62.50.130:9443",
-    "protocol": "http",
-    "ip": "103.62.50.130",
-    "port": 9443,
-    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
