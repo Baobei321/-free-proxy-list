@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.222:6625",
+    "proxy": "socks5://206.123.156.210:4996",
     "protocol": "socks5",
-    "ip": "206.123.156.222",
-    "port": 6625,
+    "ip": "206.123.156.210",
+    "port": 4996,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,49 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.225:8764",
+    "proxy": "socks5://206.123.156.192:9697",
+    "protocol": "socks5",
+    "ip": "206.123.156.192",
+    "port": 9697,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.227:17608",
+    "protocol": "socks5",
+    "ip": "206.123.156.227",
+    "port": 17608,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.227:13346",
+    "protocol": "socks5",
+    "ip": "206.123.156.227",
+    "port": 13346,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.225:5691",
     "protocol": "socks5",
     "ip": "206.123.156.225",
-    "port": 8764,
+    "port": 5691,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,23 +65,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.220:15719",
+    "proxy": "socks5://206.123.156.195:10727",
     "protocol": "socks5",
-    "ip": "206.123.156.220",
-    "port": 15719,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://49.0.156.20:32000",
-    "protocol": "socks4",
-    "ip": "49.0.156.20",
-    "port": 32000,
+    "ip": "206.123.156.195",
+    "port": 10727,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
