@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.196:4659",
+    "proxy": "socks5://206.123.156.211:8219",
     "protocol": "socks5",
-    "ip": "206.123.156.196",
-    "port": 4659,
+    "ip": "206.123.156.211",
+    "port": 8219,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks4://45.116.230.79:4673",
-    "protocol": "socks4",
-    "ip": "45.116.230.79",
-    "port": 4673,
+    "proxy": "socks5://206.123.156.234:5823",
+    "protocol": "socks5",
+    "ip": "206.123.156.234",
+    "port": 5823,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -195,19 +195,6 @@
     }
   },
   {
-    "proxy": "http://20.192.2.50:443",
-    "protocol": "http",
-    "ip": "20.192.2.50",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://157.245.96.148:443",
     "protocol": "http",
     "ip": "157.245.96.148",
@@ -364,32 +351,6 @@
     }
   },
   {
-    "proxy": "http://57.128.188.167:9030",
-    "protocol": "http",
-    "ip": "57.128.188.167",
-    "port": 9030,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://160.19.41.34:80",
-    "protocol": "http",
-    "ip": "160.19.41.34",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://4.213.167.178:80",
     "protocol": "http",
     "ip": "4.213.167.178",
@@ -400,19 +361,6 @@
     "geolocation": {
       "country": "IN",
       "city": "Pune"
-    }
-  },
-  {
-    "proxy": "http://203.115.101.58:82",
-    "protocol": "http",
-    "ip": "203.115.101.58",
-    "port": 82,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": ""
     }
   },
   {

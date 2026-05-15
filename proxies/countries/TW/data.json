@@ -1,10 +1,23 @@
 [
   {
-    "proxy": "socks4://220.132.41.160:1088",
+    "proxy": "socks4://125.228.94.153:4145",
     "protocol": "socks4",
-    "ip": "220.132.41.160",
-    "port": 1088,
+    "ip": "125.228.94.153",
+    "port": 4145,
     "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Taipei"
+    }
+  },
+  {
+    "proxy": "http://47.243.181.85:55008",
+    "protocol": "http",
+    "ip": "47.243.181.85",
+    "port": 55008,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -13,10 +26,23 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41318",
+    "proxy": "http://47.243.181.85:41131",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 41318,
+    "port": 41131,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://47.243.181.85:41287",
+    "protocol": "http",
+    "ip": "47.243.181.85",
+    "port": 41287,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -52,10 +78,10 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:55017",
+    "proxy": "http://47.243.181.85:55005",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 55017,
+    "port": 55005,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -65,10 +91,10 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:55011",
+    "proxy": "http://47.243.181.85:41291",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 55011,
+    "port": 41291,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -166,19 +192,6 @@
     "geolocation": {
       "country": "TW",
       "city": "New Taipei City"
-    }
-  },
-  {
-    "proxy": "socks4://125.228.94.153:4145",
-    "protocol": "socks4",
-    "ip": "125.228.94.153",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "Taipei"
     }
   }
 ]
