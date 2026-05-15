@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.225:5288",
+    "proxy": "socks5://206.123.156.228:4044",
     "protocol": "socks5",
-    "ip": "206.123.156.225",
-    "port": 5288,
+    "ip": "206.123.156.228",
+    "port": 4044,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.178:5917",
+    "proxy": "socks5://206.123.156.227:8881",
     "protocol": "socks5",
-    "ip": "206.123.156.178",
-    "port": 5917,
+    "ip": "206.123.156.227",
+    "port": 8881,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,23 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.189:6440",
+    "proxy": "socks5://206.123.156.234:7442",
     "protocol": "socks5",
-    "ip": "206.123.156.189",
-    "port": 6440,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.189:7289",
-    "protocol": "socks5",
-    "ip": "206.123.156.189",
-    "port": 7289,
+    "ip": "206.123.156.234",
+    "port": 7442,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -55,6 +42,19 @@
     "proxy": "http://45.114.142.178:443",
     "protocol": "http",
     "ip": "45.114.142.178",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://165.231.253.242:443",
+    "protocol": "http",
+    "ip": "165.231.253.242",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -351,10 +351,10 @@
     }
   },
   {
-    "proxy": "http://117.247.233.62:8080",
+    "proxy": "http://117.211.160.52:32650",
     "protocol": "http",
-    "ip": "117.247.233.62",
-    "port": 8080,
+    "ip": "117.211.160.52",
+    "port": 32650,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -374,6 +374,19 @@
     "geolocation": {
       "country": "IN",
       "city": "Pune"
+    }
+  },
+  {
+    "proxy": "http://175.101.240.38:80",
+    "protocol": "http",
+    "ip": "175.101.240.38",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IN",
+      "city": ""
     }
   },
   {
