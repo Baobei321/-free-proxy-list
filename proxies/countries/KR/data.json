@@ -1,5 +1,31 @@
 [
   {
+    "proxy": "socks5://121.169.46.116:1090",
+    "protocol": "socks5",
+    "ip": "121.169.46.116",
+    "port": 1090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Osan"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.211:32882",
+    "protocol": "socks5",
+    "ip": "206.123.156.211",
+    "port": 32882,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://52.231.219.53:1433",
     "protocol": "socks5",
     "ip": "52.231.219.53",
@@ -91,49 +117,10 @@
     }
   },
   {
-    "proxy": "http://121.148.239.82:3028",
+    "proxy": "http://146.56.164.121:3128",
     "protocol": "http",
-    "ip": "121.148.239.82",
-    "port": 3028,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://121.148.239.82:3077",
-    "protocol": "http",
-    "ip": "121.148.239.82",
-    "port": 3077,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://121.148.239.82:3074",
-    "protocol": "http",
-    "ip": "121.148.239.82",
-    "port": 3074,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://59.19.47.77:3069",
-    "protocol": "http",
-    "ip": "59.19.47.77",
-    "port": 3069,
+    "ip": "146.56.164.121",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -153,19 +140,6 @@
     "geolocation": {
       "country": "KR",
       "city": "Seo-gu"
-    }
-  },
-  {
-    "proxy": "socks5://121.169.46.116:1090",
-    "protocol": "socks5",
-    "ip": "121.169.46.116",
-    "port": 1090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Osan"
     }
   },
   {
