@@ -1,22 +1,9 @@
 [
   {
-    "proxy": "socks5://193.23.201.147:1080",
+    "proxy": "socks5://206.123.156.196:4647",
     "protocol": "socks5",
-    "ip": "193.23.201.147",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://159.148.146.65:5678",
-    "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
+    "ip": "206.123.156.196",
+    "port": 4647,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -185,6 +172,19 @@
     "proxy": "http://37.203.37.97:443",
     "protocol": "http",
     "ip": "37.203.37.97",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://89.111.27.213:443",
+    "protocol": "http",
+    "ip": "89.111.27.213",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -533,19 +533,6 @@
     }
   },
   {
-    "proxy": "http://37.203.37.91:443",
-    "protocol": "http",
-    "ip": "37.203.37.91",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://37.203.37.4:443",
     "protocol": "http",
     "ip": "37.203.37.4",
@@ -757,6 +744,32 @@
     "proxy": "http://89.111.27.218:443",
     "protocol": "http",
     "ip": "89.111.27.218",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://37.203.37.85:443",
+    "protocol": "http",
+    "ip": "37.203.37.85",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://89.111.31.100:443",
+    "protocol": "http",
+    "ip": "89.111.31.100",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
