@@ -91,10 +91,23 @@
     }
   },
   {
-    "proxy": "http://211.217.231.234:8080",
+    "proxy": "http://121.177.17.179:3041",
     "protocol": "http",
-    "ip": "211.217.231.234",
-    "port": 8080,
+    "ip": "121.177.17.179",
+    "port": 3041,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://59.19.47.77:3086",
+    "protocol": "http",
+    "ip": "59.19.47.77",
+    "port": 3086,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
