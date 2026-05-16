@@ -1,9 +1,61 @@
 [
   {
+    "proxy": "socks5://206.123.156.217:22831",
+    "protocol": "socks5",
+    "ip": "206.123.156.217",
+    "port": 22831,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.234:6515",
+    "protocol": "socks5",
+    "ip": "206.123.156.234",
+    "port": 6515,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://52.231.219.53:1433",
     "protocol": "socks5",
     "ip": "52.231.219.53",
     "port": 1433,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.234:4449",
+    "protocol": "socks5",
+    "ip": "206.123.156.234",
+    "port": 4449,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://58.235.170.51:5678",
+    "protocol": "socks4",
+    "ip": "58.235.170.51",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -95,6 +147,32 @@
     "protocol": "http",
     "ip": "146.56.182.165",
     "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://146.56.164.121:3128",
+    "protocol": "http",
+    "ip": "146.56.164.121",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://121.130.199.80:24007",
+    "protocol": "http",
+    "ip": "121.130.199.80",
+    "port": 24007,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
